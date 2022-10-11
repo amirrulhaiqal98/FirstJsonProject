@@ -1,0 +1,20 @@
+[
+{
+    "nama" : "Amirrul",
+    "umur" : 17,
+    "lulus": true,
+    "hobby":  [
+        "run",
+        "cycling"
+    ]
+},
+{
+    "nama" : "Salleh",
+    "umur" : 18,
+    "lulus": false,
+    "hobby":  [
+        "run",
+        "cycling"
+    ]
+}
+]
